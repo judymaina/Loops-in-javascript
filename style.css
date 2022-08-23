@@ -8,12 +8,12 @@ h2{
 }
 #products{
     border-radius: 100%;
-    background-color: rgb(42, 120, 165);
+    background-color: rgb(165, 42, 118);
     width: 15%;
     padding-left: 10%;
     margin-left: 5%;
     padding-top: 4%;
-    opacity: 60%;
+    opacity: 80%;
     font-weight: bolder;
     height: 230px;
     color: #fff;
@@ -35,20 +35,20 @@ p{
     padding-left: 10%;
     margin-left: 35%;
     padding-top: 4%;
-    opacity: 60%;
+    opacity: 80%;
     font-weight: bolder;
     height: 230px;
     color: #fff;
 }
 #vegList{
     border-radius: 100%;
-    background-color:  rgb(42, 120, 165);
+    background-color:  rgb(165, 87, 42);
     width: 15%;
     /* margin-top: -32%; */
     padding-left: 10%;
     margin-left: 65%;
     padding-top: 4%;
-    opacity: 60%;
+    opacity: 80%;
     font-weight: bolder;
     height: 230px;
     color: #fff;
